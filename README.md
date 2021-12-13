@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jematormal91
-- 👀 I’m interested in the intersection of health and technology.
-- 🌱 I’m currently working on my master's of science in computer science.
+- 👋 Hi, I’m Jeanelle
+- 👀 I’m interested in the intersection of music and technology.
+- 🌱 I’m currently working on becoming a self-taught backend developer.
