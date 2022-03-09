@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Jeanelle
-- 👀 I’m interested in the intersection of music and technology.
-- 🌱 I’m currently working on becoming a self-taught backend developer.
+- 👋 Hi, I’m Jeanelle and I'm from Puerto Rico
+I'm a Computer Science student currently completing my Master's degree
